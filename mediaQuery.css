@@ -56,7 +56,7 @@
 
 @media screen and (max-height: 500px){
     #navbar {
-        height: 12vh;
+        height: 15vh;
     }
 
     #section {
@@ -64,14 +64,15 @@
     }
 
     #container {
+        padding-top: 20vh;
         width: 100%;
-        height: 110vh;
+        height: 130vh;
     }
 
     #another-container {
         width: 100%;
         padding-top: 0px;
-        height: 120vh;
+        height: 140vh;
     }
 
     #heading {
@@ -86,7 +87,7 @@
     }
 
     .another-content {
-        height: 100vh;
+        height: 120vh;
     }
 
     .input-field{
@@ -100,7 +101,7 @@
     }
 
     .footer {
-        height: 12vh;
+        height: 15vh;
     }
 
     .footer div {
